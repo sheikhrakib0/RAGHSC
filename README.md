@@ -17,6 +17,7 @@ Tesseract: Locally downloaded Tesseract engine to extract text from the PDF.
 ## Used Tools, Library, and Packages:
 NumPy, Pandas
 !pip install gdown  (for downloading pdf from a shared location)
+
 ##The technique used is Optical Character Recognition (OCR) with tesseract, which extracts text from the image representation of the PDF rather than relying on embedded text data.
 
 !sudo apt install tesseract-ocr -y
@@ -84,6 +85,7 @@ Google AI chat models integration:
 2. Import chat model
    
 from langchain.chat_models import init_chat_model
+
 from langchain_core.prompts import PromptTemplate
 
 4. Construct Prompt
@@ -146,7 +148,13 @@ Answer: Not perfectly. The Pipeline has so much to improve.
 * Heading-based chunking
 * Fine-tuning LLM with a larger document.
 * I could use Normalization in embedding step
-* Trial and error for embedding model, simiilarity, other powerfull llm model.  
+* Trial and error for embedding model, simiilarity, other powerfull llm model.
+
+
+
+It’s a brilliant initiative that reflects your commitment to innovation in education through AI, and I’m genuinely excited about the possibilities this role offers. I am very much interested in joining your team and contributing to projects that make learning more intelligent and accessible. I would be glad to further discuss my approach to the assessment and how my background aligns with your goals.
+
+## Please feel free to reach out if you’d like to set up a time to discuss further.
 
 
 
